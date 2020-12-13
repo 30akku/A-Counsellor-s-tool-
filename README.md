@@ -1,1 +1,2 @@
 # LUMIVE
+## Your Visual Assistant
